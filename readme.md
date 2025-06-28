@@ -185,7 +185,7 @@ The project structure for this data analysis project is:
 
 ## Contact
 
-**Name:** Amritanshu Jha
+**Name:** Amritanshu Jha  
 **GitHub Profile:** [https://github.com/AmritanshuAJ](https://github.com/AmritanshuAJ)
 
 ## Acknowledgments
