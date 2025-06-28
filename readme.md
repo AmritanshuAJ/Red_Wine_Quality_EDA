@@ -110,7 +110,7 @@ Ensure you have Python installed (preferably Python 3.x). You will also need pip
 
 2. **Navigate into the project directory:**
    ```bash
-   cd RED_WINE_QUALITY_EDA
+   cd Red_Wine_Quality_EDA
    ```
 
 3. **Install the required Python packages (for local execution):**
@@ -185,7 +185,8 @@ The project structure for this data analysis project is:
 
 ## Contact
 
-**Your Name/GitHub Profile:** [https://github.com/AmritanshuAJ](https://github.com/AmritanshuAJ)
+**Name:** Amritanshu Jha
+**GitHub Profile:** [https://github.com/AmritanshuAJ](https://github.com/AmritanshuAJ)
 
 ## Acknowledgments
 
