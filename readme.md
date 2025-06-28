@@ -13,7 +13,6 @@ This repository contains an Exploratory Data Analysis (EDA) of the Red Wine Qual
 - [Usage](#usage)
 - [Built With](#built-with)
 - [Project Structure](#project-structure)
-- [License](#license)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
